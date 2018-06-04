@@ -1,0 +1,7 @@
+The two attached tests contain data in tab seperated format.
+The four columns are
+
+1) English Sentence
+2) French Sentence
+3) Label (1 = Non-divergent, 0 = Divergent)
+4) Fraction of annotators (out of 5) that voted for the majority class i.e the label
