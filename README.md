@@ -1,3 +1,4 @@
+Code and data from the NAACL 2018 paper [Identifying Semantic Divergences in Parallel Text without Annotations](http://aclweb.org/anthology/N18-1136)
 
 # Training the divergence detector model
 
