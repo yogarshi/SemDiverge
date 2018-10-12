@@ -60,12 +60,14 @@ The two crowdsourced test sets described in Section 4 and used for experiments i
 
 All models in the paper were trained using ``nmt_script.sh``. Before running the script, you need to set a few parameters (lines 6-15) which point to locations where you want to save the model/checkpoints and the data.
 
-## Training data
+## Training, dev, and test data
 
 The data used to train the MT systems is also available. We make available the entire corpora ranked according to the various methods described in the paper, but note that all methods only used a fraction of the data (50% for French-English, 90% for Vietnamese-English). The files have been named according to Tables 3 and 4 in the paper.
 
 * [French-English OpenSubtitles corpus](https://obj.umiacs.umd.edu/semdiverge/opensubs.tar.gz) (~2.7 GB)
 * [Vietnamese-English TED Talks](https://obj.umiacs.umd.edu/semdiverge/vien-ted.tar.gz) (~20 MB)
+
+The French-English dev and test sets are also [available](https://obj.umiacs.umd.edu/semdiverge/devtest.tar.gz)
 
 # References and contact
 
